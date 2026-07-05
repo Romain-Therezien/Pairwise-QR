@@ -116,6 +116,5 @@ covariate-specific contributions.
 
 ## Acknowledgments
 
-This research was funded by the French National Research Agency (ANR) in the
-framework of the FAR-SEE project.
+This research was fully funded by the French National Research Agency (ANR) in the framework of the FAR-SEE project (ANR-24-CE23-0921).
 
