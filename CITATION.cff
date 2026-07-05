@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Pairwise Quantile Regression"
+authors:
+  - family-names: Therezien
+    given-names: Romain
+  - family-names: "Clémençon"
+    given-names: Stephan
+  - family-names: Fantin
+    given-names: Girard
+  - family-names: El-Abdouni
+    given-names: Hamza
+preferred-citation:
+  type: conference-paper
+  title: "On Pairwise Quantile Regression: Statistical Guarantees and Applications"
+  authors:
+    - family-names: Therezien
+      given-names: Romain
+    - family-names: "Clémençon"
+      given-names: Stephan
+    - family-names: Fantin
+      given-names: Girard
+    - family-names: El-Abdouni
+      given-names: Hamza
+  conference:
+    name: "Conference on Uncertainty in Artificial Intelligence (UAI)"
+  year: 2026
