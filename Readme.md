@@ -23,8 +23,7 @@ pairwise_qr/                    # Reusable library
 ├── models.py                   #   NN quantile regressor, GBM/LightGBM factories
 └── metrics.py                  #   D², empirical coverage, MAE vs ground truth
 experiments/                    # One script per paper result (see table below)
-tests/                          # Smoke tests of the statistical building blocks
-data/                           # FR parquet files (added separately — see data/README.md)
+data/                           # FR parquet files
 outputs/                        # Generated figures (gitignored)
 ```
 
